@@ -1,9 +1,10 @@
 <?php
 
 $dev = "olá mundo";
-$nome = "Eu sou o Kauany";
+$nome = "Eu sou a Kauany";
+$descricao = "Curso: Técnico em Desenvolvimenti de Sistemas. ";
 
-echo $dev. " ". $nome;
+echo $dev. " ". $nome. "\n". $descricao;
 
 ?>
 
